@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](/assets/html.png = 150x150)
+![](/assets/html.png | width=100)
