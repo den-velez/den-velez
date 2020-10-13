@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Tux, the Linux mascot](/assets/html.png)
+![](/assets/html.png = 150x150)
