@@ -1,18 +1,18 @@
-### Hi there 👋
+### Hi folks 👋
 
-<!--
-**den-velez/den-velez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Den and I'm from Mexico. Currently I'm working in personal projects as FrontEnd
 
-Here are some ideas to get you started:
+I'm part of Platzi Master since May 2020
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My stack is
 
-![Tux, the Linux mascot](/assets/html.png)
+- HTML
+- CSS
+- SASS
+- REACT
+- REDUX
+- FIREBASE
+
+You can found me in Twitter or email
+
+HAVE A NICE DAY!
