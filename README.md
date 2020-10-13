@@ -2,17 +2,10 @@
 
 My name is Den and I'm from Mexico. Currently I'm working in personal projects as FrontEnd
 
-I'm part of Platzi Master since May 2020
+I'm part of Platzi Master since May 2020 and you can found me in Twitter or send me an email
 
 My stack is
 
-- HTML
-- CSS
-- SASS
-- REACT
-- REDUX
-- FIREBASE
+![](assets/html.png) ![](assets/css.png) ![](assets/js.png) ![](assets/react.png) ![](assets/redux.png) ![](assets/firebase.png)
 
-You can found me in Twitter or email
-
-HAVE A NICE DAY!
+_HAVE A NICE DAY!_
