@@ -1,16 +1,51 @@
-### Hi folks 👋
+# 👋 Hi, I'm Den Velez
 
-###### My name is Den and I'm engineer with expertise in full-stack development, process optimization, and solving complex client issues. Proven skills in full-cycle development, from process engineering to deployment. Proficient in creating responsive websites and web applications using modern technologies. Strong communicator, adept at interacting with clients and development teams for seamless project integration. Exceptional project management skills and a collaborative mindset.
+I'm a software engineer and digital transformation consultant with over 10 years of experience in tech, and a solid background in operations and supply chain management.
 
+I help businesses optimize and automate their processes by building custom software solutions — from full-stack apps to integrations and backend automation.
 
-###### My Tech stack:
-##### Javascript | Typescript
+## 🧠 What I Do
 
-###### FrontEnd: 
-##### React | Next | Vue | Nuxt | Angular 
-##### Tailwind | Sass | CSS | Redux | Firebase
+- 🔧 Full-Stack Web Development (React, Next.js, Node.js, PostgreSQL, Firebase)
+- ⚙️ API Integrations, Microservices & Automation
+- 🏢 Digital Process Optimization for SMBs
+- ☁️ Cloud Infrastructure (Azure, AWS, Docker, PaaS/SaaS solutions)
+- 🧩 Modular ERP Design & Implementation
+- 📊 CRM & CMS Integrations (HubSpot, Prismic, Kommo)
 
-###### BackEnd:
-##### Node | Nestjs | Express | MongoDB
+## 🧭 Background
 
-_HAVE A NICE DAY!_
+Before focusing full-time on software development, I spent a decade leading operational strategy for national-level retail companies, managing inventory for 120 stores and +20,000 SKUs. That real-world experience helps me bridge business needs with technical solutions.
+
+Now I lead **Den Solutions**, a consultancy that builds scalable software for growing businesses.
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Custom ERP Modules** | Modular inventory and operations system for mid-sized companies | React, Node, PostgreSQL |
+| **CRM + WhatsApp Bot Integration** | Automated customer engagement using Kommo and SAP inventory APIs | Node.js, Kommo API, Google Sheets |
+| **E-commerce Analytics Dashboards** | Real-time dashboards for product and order tracking | Next.js, Firebase, Tailwind |
+
+👉 More coming soon. Working on open-sourcing selected modules.
+
+## 🤝 Let's Collaborate
+
+I'm open to:
+
+- Freelance/contract work
+- Long-term product development partnerships
+- Technical leadership roles in impactful teams
+- Contributing to open-source projects
+
+Feel free to connect with me or reach out:
+
+- 🌐 [denvelez.com](https://denvelez.com)
+- 📬 [LinkedIn](https://www.linkedin.com/in/denvelez1)
+- 💌 Email: [den@denvelez.com](mailto:den@denvelez.com)
+
+---
+
+### 📌 Fun Fact
+
+When I'm not coding or optimizing systems, I’m probably baking sourdough bread, pizza, or experimenting with new dough recipes. 🥖🍕🔥
