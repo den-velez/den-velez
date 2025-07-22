@@ -27,8 +27,6 @@ Now I lead **Den Solutions**, a consultancy that builds scalable software for gr
 | **CRM + WhatsApp Bot Integration** | Automated customer engagement using Kommo and SAP inventory APIs | Node.js, Kommo API, Google Sheets |
 | **E-commerce Analytics Dashboards** | Real-time dashboards for product and order tracking | Next.js, Firebase, Tailwind |
 
-👉 More coming soon. Working on open-sourcing selected modules.
-
 ## 🤝 Let's Collaborate
 
 I'm open to:
